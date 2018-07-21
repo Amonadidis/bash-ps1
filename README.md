@@ -1,5 +1,5 @@
 # bash-ps1-environment-variable
-Bash PS1 environment variable for bashrc or .bash_profile file.
+Bash PS1 environment variable for /etc/bashrc or .bash_profile file.
 ## Usage
 Just add or change the PS1 variable.
 
